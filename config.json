@@ -1,0 +1,14 @@
+{
+  "origin": "MNL",
+  "destination": "NRT",
+  "departure_date": "2025-10-23",
+  "return_date": "2025-10-29",
+  "departure_time_range": "00:00-03:00",
+  "return_time_range": "18:00-22:00",
+  "price_min": 7000,
+  "price_max": 9000,
+  "check_interval_hours": 6,
+  "email": {
+    "enabled": true
+  }
+}
